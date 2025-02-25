@@ -46,3 +46,5 @@ rm -r userkeys
 cd
 cd python_games
 rm -r game1
+
+echo -e "\e[35;5;1;248mUninstall Complete! Thanks for playing!"
