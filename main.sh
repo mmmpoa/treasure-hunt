@@ -1,12 +1,13 @@
 #!/bin/bash
 cd
 mkdir ???
+echo "Use cd to go back to home, use cd (directory) to go to a directory/folder, use pwd to see where you are, and ls to list the things in the directory"
 
 #Gold Jewel
 
 cd ???
 touch goldjewel1.txt
-printf "/gylwpv_gnnek" >> goldjewel1.txt
+printf "/gylwpv_gnnek\n" >> goldjewel1.txt
 
 #Ruby Necklace
 
@@ -16,7 +17,7 @@ cd Documents
 mkdir Contract $currentyear
 cd Contract
 touch rubynecklace2.txt
-printf "/nrmw1" >> rubynecklace2.txt
+printf "/nrmw1\n" >> rubynecklace2.txt
 
 #Map of the World
 
@@ -25,7 +26,7 @@ cd Pictures
 mkdir ParisTrip2024
 cd ParisTrip2024
 touch mapoftheworld3.txt
-printf "hqzigf_fasvs" >> mapoftheworld3.txt
+printf "hqzigf_fasvs\n" >> mapoftheworld3.txt
 
 #Raspberry Pi
 
@@ -34,7 +35,7 @@ cd Videos
 mkdir MathVideos
 cd MathVideos
 touch RaspberryPi4.txt
-printf "/uwbzapuejz" >> RasperryPi4.txt
+printf "/uwbzapuejz\n" >> RasperryPi4.txt
 
 #Pearls
 
@@ -43,7 +44,7 @@ cd Bookshelf
 mkdir Books
 cd Books
 touch pearls5.txt
-printf "/glsnfzscsill" >> pearls5.txt
+printf "/glsnfzscsill\n" >> pearls5.txt
 
 #Crown
 
@@ -52,7 +53,7 @@ cd Downloads
 mkdir minecraftinstaller.zip
 cd minecraftinstaller.zip
 touch crown6.txt
-printf "/krwptcrr_fnv.aot" >> crown6.txt
+printf "/krwptcrr_fnv.aot\n" >> crown6.txt
 
 #Golden Key
 
@@ -62,7 +63,7 @@ cd userkeys
 mkdir key1
 cd key1
 touch golden_and_final_key_vigenere7.txt
-printf "raspbianbash" >> golden_and_final_key7.txt
+printf "raspbianbash\n" >> golden_and_final_key7.txt
 
 #Ending
 
@@ -77,7 +78,7 @@ cd characters
 mkdir player_sprite
 cd player_sprite
 touch treasure_end.txt
-printf "You did it! Give yourself a pat on the back! \eNow you know simple commands! \eWhen your ready to end the game, type cd, then bash updateos.sh \e(Don't worry this doesn't ACTUALLY update your raspberry pi.)" >> treasure_end.txt
+printf "You did it! Give yourself a pat on the back! \e Now you know simple commands! \e When your ready to end the game, type cd, then bash updateos.sh \e(Don't worry this doesn't ACTUALLY update your raspberry pi.)" >> treasure_end.txt
 
 
 
