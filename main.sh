@@ -10,7 +10,7 @@ printf "/gylwpv_gnnek" >> goldjewel1.txt
 
 #Ruby Necklace
 
-currentyear=$(Date +%Y)
+currentyear=$(date +%Y)
 cd
 cd Documents
 mkdir Contract $currentyear
@@ -77,7 +77,7 @@ cd characters
 mkdir player_sprite
 cd player_sprite
 touch treasure_end.txt
-printf "You did it! Give yourself a pat on the back! \eNow you know simple commands! \eWhen your ready to end the game, type cd, then bash updateos.sh \e(Don't worry this doesn't ACTUALLY update your raspberry pi.)
+printf "You did it! Give yourself a pat on the back! \eNow you know simple commands! \eWhen your ready to end the game, type cd, then bash updateos.sh \e(Don't worry this doesn't ACTUALLY update your raspberry pi.)" >> treasure_end.txt
 
 
 
