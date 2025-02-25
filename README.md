@@ -1,13 +1,13 @@
 # Treasure-Hunt
 
-**THIS IS NOT ANY MALWARE. YOUR RASPBERRY PI IS SAFE.**
+**THIS DOES NOT CONTAIN ANY MALWARE. YOUR RASPBERRY PI IS SAFE.**
 
 To start the treasure hunt, go to terminal in your pi and type
 
-``wget -O - https://raw.githubusercontent.com/mmmpoa/treasure-hunt/refs/heads/main/main.sh | bash``
+``wget -O - https://tinyurl.com/pimainhunt | bash``
 
 then
 
-``wget -O - https://raw.githubusercontent.com/mmmpoa/treasure-hunt/refs/heads/main/updateos.sh | bash``
+``wget -O - https://tinyurl.com/piupdateos | bash``
 
 Enjoy hunting!
