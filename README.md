@@ -1,6 +1,6 @@
 # Treasure-Hunt
 
-#**THIS IS NOT ANY MALWARE. YOUR RASPBERRY PI IS SAFE.**
+**THIS IS NOT ANY MALWARE. YOUR RASPBERRY PI IS SAFE.**
 
 To start the treasure hunt, go to terminal in your pi and type
 
