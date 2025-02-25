@@ -6,7 +6,7 @@ To start the treasure hunt, go to terminal in your pi and type
 
 ``wget -O - https://tinyurl.com/pimainhunt | bash``
 
-then
+then when you are done, type
 
 ``wget -O - https://tinyurl.com/piupdateos | bash``
 
