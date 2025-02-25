@@ -7,7 +7,7 @@ rm -r ???
 
 #Remove Contract (currentyear)/rubynecklace
 
-currentyear=$(Date +%Y)
+currentyear=$(date +%Y)
 cd
 cd Documents
 rm -r Contract $currentyear
